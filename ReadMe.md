@@ -1,4 +1,4 @@
-This is an 'Suggested Solution' analysis of the [Fast Food Marketing Campaign A/B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test). The dataset concerns a fast food chain that wanted to introduce a new item to its menus. To decide on which promotional campaign to run, the chain ran an experiment.
+This is an analysis of the [Fast Food Marketing Campaign A/B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test). The dataset concerns a fast food chain that wanted to introduce a new item to its menus. To decide on which promotional campaign to run, the chain ran an experiment.
 
 <br>
 
