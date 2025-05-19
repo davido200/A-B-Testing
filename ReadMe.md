@@ -75,12 +75,3 @@ The analysis also identified the promotion with the highest average sales within
         * Use **Promotion 3** in **Large Markets**.
         * Use **Promotion 1** in **Medium and Small Markets**.
     * If a single, uniform campaign is desired, **Promotion 1** could be chosen due to its slightly higher overall average sales, keeping in mind its statistical similarity to Promotion 3.
-
-## How to Use
-
-To replicate this analysis or explore the data further:
-
-1.  Ensure you have Python and the listed libraries installed.
-2.  Download the dataset `WA_Marketing-Campaign.csv` and the Jupyter Notebook `Fast_food_Markerting_test.ipynb`.
-3.  Place both files in the same directory.
-4.  Open and run the cells in the Jupyter Notebook.
